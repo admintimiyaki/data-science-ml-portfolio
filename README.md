@@ -55,7 +55,7 @@ This project applies Naive Bayes classification to detect spam messages. Using S
 * Outcome: The model achieved high classification accuracy with balanced precision and recall.
 
 
-## 🧩 How to Run
+## How to Run
 
 1. Clone this repository
 
