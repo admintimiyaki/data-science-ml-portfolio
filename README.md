@@ -1,12 +1,12 @@
-# 🧠 Data Science & Machine Learning Portfolio
+# Data Science & Machine Learning Portfolio
 
-**Name:** Temur Rustamov
-**Student ID:** C00280204
-**Module:** Data Science & Machine Learning
+- **Name:** Temur Rustamov
+- **Student ID:** C00280204
+- **Module:** Data Science & Machine Learning
 
 ---
 
-## 🧾 Portfolio Specification
+## Portfolio Specification
 
 ### **Overview**
 
@@ -17,12 +17,12 @@ Each portfolio item represents a different aspect of prediction modeling:
 
 | Project                              | Type           | Dataset                     | Algorithm         | Objective                                    |
 | ------------------------------------ | -------------- | --------------------------- | ----------------- | -------------------------------------------- |
-| **Wine Quality ph Analysis**         | Regression     | Wine Quality Red Wine | Linear Regression | Predict ph values from chemical attributes   |
-| **Spam vs Ham Email Classification** | Classification | SMS Spam Collection Dataset | Naive Bayes       | Classify text messages as spam or legitimate |
+| **Wine Quality ph analysis**         | Regression     | Wine Quality Red Wine | Linear Regression | Predict ph values from chemical attributes   |
+| **Email Classification** | Classification | Spam Collection Dataset | Naive Bayes       | Classify text messages as spam or legitimate |
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 The goal of this portfolio is to:
 
@@ -34,9 +34,9 @@ The goal of this portfolio is to:
 
 ---
 
-## 📘 Project Descriptions
+## Project Descriptions
 
-### **1️⃣ Wine Quality ph Analysis Regression**
+### **Wine Quality ph analysis linear regression**
 
 This project analyzes how the chemical composition of red wine affects its acidity. Using linear regression, the model predicts the ph level based on multiple chemical features.
 
@@ -46,9 +46,9 @@ This project analyzes how the chemical composition of red wine affects its acidi
 
 ---
 
-### **2️⃣ Spam vs Ham Classification Naive Bayes**
+### **Classification Naive Bayes**
 
-This project applies Naive Bayes classification to detect spam messages. Using the SMS Spam Collection dataset, the model learns to distinguish between spam and ham messages.
+This project applies Naive Bayes classification to detect spam messages. Using Spam Collection dataset, the model learns to distinguish between spam and ham messages.
 
 * Key methods: Text cleaning and train-test split.
 * Evaluation: Accuracy, Precision.
