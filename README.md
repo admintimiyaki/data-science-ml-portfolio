@@ -3,6 +3,7 @@
 - **Name:** Temur Rustamov
 - **Student ID:** C00280204
 - **Module:** Data Science & Machine Learning
+- My LinkedIn: www.linkedin.com/in/rustamovt
 
 ---
 
