@@ -11,9 +11,9 @@
 ### **Overview**
 
 This portfolio demonstrates my project work for machine learning and data science module for both regression and classification naive-bayes problems using real world datasets.
-The projects showcase skills in data preprocessing, analysis, model building and evaluation using Python and pandas, NumPy, matplotlib, seaborn and scikit-learn.
+The projects showcase skills in data preprocessing and model building using Python and pandas, NumPy, matplotlib, seaborn, scikit-learn as well.
 
-Each portfolio item represents a different aspect of prediction modeling:
+Each portfolio item represents a different piece of prediction modeling:
 
 | Project                              | Type           | Dataset                     | Algorithm         | Objective                                    |
 | ------------------------------------ | -------------- | --------------------------- | ----------------- | -------------------------------------------- |
@@ -26,10 +26,10 @@ Each portfolio item represents a different aspect of prediction modeling:
 
 The goal of this portfolio is to:
 
-1. Demonstrate technical competence in implementing learning models.
-2. Apply Linear Regression for prediction tasks and evaluate performance using r squared and residuals.
+1. Demonstrate implementing models.
+2. Apply Linear Regression for prediction tasks and evaluate performance using r squared.
 3. Apply naive bayes for text classification using accuracy metrics.
-4. Interpret model performance and identify factors influencing predictions and present results professionally.
+4. Interpret model performance and identify factors influencing predictions, then present results professionally.
 
 
 ---
@@ -38,10 +38,10 @@ The goal of this portfolio is to:
 
 ### **Wine Quality ph analysis linear regression**
 
-This project analyzes how the chemical composition of red wine affects its acidity. Using linear regression, the model predicts the ph level based on multiple chemical features.
+This project analyzes how the chemical composition of red wine affects its acidity. Using linear regression this model predicts the ph level based on multiple chemical features.
 
-* Key methods: Correlation analysis, feature scaling, multiple and single linear regression.
-* Outcome: 0.65 - moderate to strong predictive performance.
+* Key methods: Correlation analysis, feature scaling, multiple & single linear regression.
+* Outcome: 0.65 is moderate to strong predictive performance.
 * Interpretation: Fixed acidity and density were the strongest predictors of pH.
 
 ---
@@ -51,9 +51,8 @@ This project analyzes how the chemical composition of red wine affects its acidi
 This project applies Naive Bayes classification to detect spam messages. Using Spam Collection dataset, the model learns to distinguish between spam and ham messages.
 
 * Key methods: Text cleaning and train-test split.
-* Evaluation: Accuracy, Precision.
-* Outcome: The model achieved high classification accuracy with balanced precision and recall.
-
+* Evaluation: Accuracy and precision.
+* Outcome: The model achieved high accuracy in classification and balanced precision.
 
 ## How to Run
 
