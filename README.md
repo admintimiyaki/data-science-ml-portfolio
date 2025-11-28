@@ -77,7 +77,7 @@ Using the SMS Spam Collection dataset, the model learns to distinguish between s
   - Model performance is evaluated using **accuracy** on a held-out test set.
 
 - **Outcome:**  
-  - The model achieved high accuracy on the test data and correctly classified typical spam phrases (e.g. messages mentioning “FREE”, “VOUCHER”, etc.) as spam, while recognising normal conversational messages as ham.
+  - The model achieved high accuracy on the test data and correctly classified typical spam phrases as spam, while recognising normal conversational messages as ham.
 
 ---
 
