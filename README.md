@@ -101,5 +101,4 @@ This project uses a **Random Forest** classifier to predict whether a passenger 
 
 - **Outcome:**  
   - The tuned Random Forest model achieved good accuracy, confirming that **Sex** and **Pclass** (and related features) are strong predictors of survival.  
-  - The final model produces survival predictions for the separate test set and writes them to `data/predictions.csv`.
 
